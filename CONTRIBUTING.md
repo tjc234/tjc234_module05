@@ -9,4 +9,4 @@ This project is licensed under the terms of the [BSD 3 License](https://chooseal
 ## *Contributors*
 **Tyler Chapp<br/>
 (Chase Babb)<br/>
-(Contributor 2's name)**
+(Nicholas Carmona)<br/>
