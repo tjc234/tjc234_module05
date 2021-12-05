@@ -21,4 +21,4 @@ Please add additional functions performing different mathematical calculations o
 Pull requests are welcome.
 
 ## *License*
-This project is licensed under the terms of the [BSD 3 license](https://choosealicense.com/licenses/bsd-3-clause/)
+This project is licensed under the terms of the [BSD 3 License](https://choosealicense.com/licenses/bsd-3-clause/).
