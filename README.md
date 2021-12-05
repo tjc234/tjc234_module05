@@ -4,5 +4,5 @@
 -----------------------------------------
 For this project, we will be creating a 
 python program that accepts a number as
-a parameter, and prints the number given,
+a parameter, prints the number given,
 the number squared, and the number cubed.
