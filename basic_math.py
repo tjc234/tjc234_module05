@@ -1,3 +1,10 @@
+'''
+Copyright (c) 2021, Tyler Chapp
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree.
+'''
 # simple python program that prompts user for a number to input,
 # and performs several basic math calculations.
 def main():
