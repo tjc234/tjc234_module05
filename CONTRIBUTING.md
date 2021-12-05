@@ -8,5 +8,5 @@ This project is licensed under the terms of the [BSD 3 License](https://chooseal
 
 ## *Contributors*
 **Tyler Chapp<br/>
-(Contributor 1's name)<br/>
+(Nicholas Carmona)<br/>
 (Contributor 2's name)**
