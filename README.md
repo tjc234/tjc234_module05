@@ -9,8 +9,8 @@ then performs a set of simple mathematical calulations with said number.
 ## *Usage*
 When the python program is executed, first the user will be prompted to input a number:<br/>
 <br/>
-"What number do you want to use?" **3**
-
+"What number do you want to use?" **3**<br/>
+<br/>
 The program then prints the chosen number, that number squared, and that number cubed.<br/>
 <br/>
 The number you chose was: **3**<br/>
