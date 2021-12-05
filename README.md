@@ -8,13 +8,14 @@ then performs a set of simple mathematical calulations with said number.
 
 ## *Usage*
 When the python program is executed, first the user will be prompted to input a number:
-"What number do you want to use?"
+"What number do you want to use?" **3**
 
-The program then prints:
-The number chosen
-The number squared
-The number cubed
-
+The program then prints the chosen number, that number squared, and that number cubed.
+'''python
+print(f'The number you chose was: {number}')
+print(f'{number} squared is: {number**2}')
+print(f'{number} cubed is: {number**3}')
+'''
 
 ## *Contributing*
 Please add additional functions performing different mathematical calculations of the inputed number.
