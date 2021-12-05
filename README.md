@@ -1,5 +1,5 @@
 # ***tjc234_module05***
-## *Module 5 assignment - Repository* 
+## *Module 5 Assignment - Repository* 
 ###### *CS305 - Computing Tools III*
 -----------------------------------------
 For this project, we will be creating a 
