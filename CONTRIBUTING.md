@@ -9,4 +9,6 @@ This project is licensed under the terms of the [BSD 3 License](https://chooseal
 ## *Contributors*
 **Tyler Chapp<br/>
 (Nicholas Sean Carmona)<br/>
-(Contributor 2's name)**
+(Chase Babb)**<br/>
+
+

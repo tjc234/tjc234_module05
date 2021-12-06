@@ -25,5 +25,7 @@ Basic math reloaded adds functionality for trigonometric functions.
 Please add additional functions performing different mathematical calculations of the inputed number.<br/>
 Pull requests are welcome.
 
+hypothetical project: adding more math functions to current project - Chase Babb
+
 ## *License*
 This project is licensed under the terms of the [BSD 3 License](https://choosealicense.com/licenses/bsd-3-clause/).
