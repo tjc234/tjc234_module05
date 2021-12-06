@@ -17,6 +17,9 @@ The program then prints the chosen number, that number squared, and that number 
 **3** squared is: **9**<br/>
 **3** cubed is: **27***
 
+## *Basic Math Reloaded*
+Basic math reloaded adds functionality for trigonometric functions.
+
 
 ## *Contributing*
 Please add additional functions performing different mathematical calculations of the inputed number.<br/>
